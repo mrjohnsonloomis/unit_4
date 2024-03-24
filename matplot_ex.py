@@ -1,4 +1,4 @@
-# Importing the necessary library
+# Importing the necessary library 
 import matplotlib.pyplot as plt
 
 # Creating data for the line chart
